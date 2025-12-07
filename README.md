@@ -7,5 +7,7 @@ Steps to run the App
 1. Clone the App
 2. npm install
 3. cd ios && pod install
-4. run the json server with command -->   json-server --watch db.json --port 3001     
+4. run the json server with commands in separate terminal --> 
+   i.    npm install -g json-server
+   ii.   json-server --watch db.json --port 3001     
 5. npm run ios
