@@ -1,0 +1,24 @@
+{
+  "products": [
+    { "id": 1, "name": "Wireless Headphones", "brand": "SoundMax", "price": 2999, "imageUrl":"https://picsum.photos/seed/1/200/120" },
+    { "id": 2, "name": "Smart Watch", "brand": "TimePro", "price": 4999, "imageUrl":"https://picsum.photos/seed/2/200/120" },
+    { "id": 3, "name": "Bluetooth Speaker", "brand": "BeatBox", "price": 1999, "imageUrl":"https://picsum.photos/seed/3/200/110" },
+    { "id": 4, "name": "Fitness Band", "brand": "FitLife", "price": 1499, "imageUrl":"https://picsum.photos/seed/4/200/120" },
+    { "id": 5, "name": "Portable Charger", "brand": "PowerUp", "price": 899, "imageUrl":"https://picsum.photos/seed/5/200/120" },
+    { "id": 6, "name": "Noise Cancelling Earbuds", "brand": "QuietOne", "price": 3499, "imageUrl":"https://picsum.photos/seed/6/200/120" },
+    { "id": 7, "name": "DSLR Camera", "brand": "PhotoPro", "price": 25999, "imageUrl":"https://picsum.photos/seed/7/200/120" },
+    { "id": 8, "name": "Gaming Mouse", "brand": "Clicker", "price": 1299, "imageUrl":"https://picsum.photos/seed/2/200/120" },
+    { "id": 9, "name": "Mechanical Keyboard", "brand": "KeyForge", "price": 4999, "imageUrl":"https://picsum.photos/seed/8/200/120" },
+    { "id": 10, "name": "4K Monitor", "brand": "ViewMax", "price": 19999, "imageUrl":"https://picsum.photos/seed/10/200/120" },
+    { "id": 11, "name": "Smartphone", "brand": "PhoneX", "price": 19999, "imageUrl":"https://picsum.photos/seed/11/200/120" },
+    { "id": 12, "name": "Tablet", "brand": "TabPro", "price": 14999, "imageUrl":"https://picsum.photos/seed/12/200/120" },
+    { "id": 13, "name": "Laptop", "brand": "NoteMaster", "price": 44999, "imageUrl":"https://picsum.photos/seed/13/200/120" },
+    { "id": 14, "name": "External SSD", "brand": "FlashStor", "price": 6999, "imageUrl":"https://picsum.photos/seed/14/200/120" },
+    { "id": 15, "name": "Smart Bulb", "brand": "BrightHome", "price": 799, "imageUrl":"https://picsum.photos/seed/15/200/120" },
+    { "id": 16, "name": "Action Camera", "brand": "GoRide", "price": 8999, "imageUrl":"https://picsum.photos/seed/16/200/120" },
+    { "id": 17, "name": "VR Headset", "brand": "Immersa", "price": 15999, "imageUrl":"https://picsum.photos/seed/17/200/120" },
+    { "id": 18, "name": "Drone", "brand": "SkyEye", "price": 29999, "imageUrl":"https://picsum.photos/seed/18/200/120" },
+    { "id": 19, "name": "Webcam", "brand": "StreamCam", "price": 2499, "imageUrl":"https://picsum.photos/seed/19/200/120" },
+    { "id": 20, "name": "Smart Scale", "brand": "WeighSmart", "price": 1999, "imageUrl":"https://picsum.photos/seed/20/200/120" }
+  ]
+}
